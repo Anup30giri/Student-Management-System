@@ -39,7 +39,7 @@ CREATE TABLE `college` (
 
 LOCK TABLES `college` WRITE;
 /*!40000 ALTER TABLE `college` DISABLE KEYS */;
-INSERT INTO `college` VALUES (1000,'Nidhi Aryal','27G','s@yahoo.com','sinamangal','99367478'),(1001,'Dipesh Khadka','27F','mercy@gmail.com','Dang','9876543222'),(1002,'Banish Sapkota','27C','surakshya@gmail.com','Baneshwor','9811660075'),(1003,'Suyog Pokhrel','27B','suyog@gmail.com','Chabhil','9860907402');
+INSERT INTO `college` VALUES (1000,'Keshav','27G','s@yahoo.com','sinamangal','99367478'),(1001,'Dipesh Khadka','27F','mercy@gmail.com','Dang','9876543222'),(1002,'Banish Sapkota','27C','surakshya@gmail.com','Baneshwor','9811660075'),(1003,'Suyog Pokhrel','27B','suyog@gmail.com','Chabhil','9860907402');
 /*!40000 ALTER TABLE `college` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
